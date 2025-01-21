@@ -1,0 +1,14 @@
+package lecture05;
+
+
+public class lecture05 implements Comparator<String>{
+
+	public static void main(String[] args) {
+		
+		public int compare(String str1, String str2) {
+			
+			return str2.compareTo(str1)
+		}
+	}
+
+}

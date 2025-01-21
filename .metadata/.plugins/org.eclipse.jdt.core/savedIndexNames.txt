@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/kjmorse2/source/CS2420/.metadata/.plugins/org.eclipse.jdt.core
+2541140845.index
+1155368243.index
+3765537787.index
+1865797976.index
